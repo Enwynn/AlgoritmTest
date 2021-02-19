@@ -11,8 +11,8 @@ public class Main {
         qs.sort();
 
         //  1 million int elements in an comparable array, range between 0-1000.
-        MAW_quicksort ob = new MAW_quicksort();
-        ob.sort();
+        MAW_quicksort maw_qs = new MAW_quicksort();
+        maw_qs.sort();
 
     }
 }
